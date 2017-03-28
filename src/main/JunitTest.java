@@ -9,7 +9,7 @@ public class JunitTest() {
     public add(int var1) {
 
         var1=1+1;
-        System.out.println(var1);
+        System.out.println("var1"+var1);
         }
 
         }
