@@ -10,7 +10,7 @@ public class JunitTest() {
 
         var1=1+1;
         System.out.println("var1"+var1);
-        System.out.println("Hello test");
+      
         }
 
         }
